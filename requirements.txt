@@ -1,0 +1,15 @@
+altair
+pandas
+streamlit
+numpy
+catboost
+kepler
+matplotlib
+streamlit-keplergl
+streamlit_extras
+seaborn
+datetime
+pyngrok
+openpyxl
+
+
